@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sampath998&style=flat-square&color=70a5fd&label=Profile+Views" alt="Profile Views"/>
   &nbsp;
-  <a href="mailto:ssktdevops@gmail.com"><img src="https://img.shields.io/badge/Email-ssktdevops%40gmail.com-70A5FD?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:sampathskmr9@gmail.com"><img src="https://img.shields.io/badge/Email-ssktdevops%40gmail.com-70A5FD?style=flat-square&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/sampathkumartadinada"><img src="https://img.shields.io/badge/LinkedIn-Sampath%20Kumar-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
