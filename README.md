@@ -61,7 +61,7 @@ print(me.motto())
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=powershell&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=flat-square&logo=google&logoColor=white)
@@ -118,12 +118,9 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/sampath998">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sampath998&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-  </a>
-  <a href="https://github.com/sampath998">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampath998&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sampath998&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&cache_seconds=1800" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sampath998&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 ---
@@ -147,7 +144,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sampath998&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sampath998&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
